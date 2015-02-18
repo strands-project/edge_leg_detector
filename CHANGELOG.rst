@@ -2,8 +2,8 @@
 Changelog for package edge_leg_detector
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2015-02-18)
+------------------
 * Add default laser scanner source node.
 * Merge pull request `#2 <https://github.com/strands-project/edge_leg_detector/issues/2>`_ from ferdianjovan/master
   Fixing the time stamp problem
